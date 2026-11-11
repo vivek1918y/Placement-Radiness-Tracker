@@ -1,0 +1,35 @@
+PLACEMENT READINESS TRACKER
+\nEnter details for the new student
+Name: vivek
+Roll number: CSE006
+Enter aptitude score (0-100): 85
+Enter verbal score (0-100): 78
+Enter coding score (0-100): 2
+\nPLACEMENT READINESS RESULTS
+---------------------------------------------------------
+----------------------------------
+Name              Roll No.      Aptitude    Verbal    Cod
+ing    Average             Grade
+---------------------------------------------------------
+----------------------------------
+Aarav Sharma      CSE001              82        76       
+ 91      83.00                 A
+Diya Singh        CSE002              68        72       
+ 64      68.00                 B
+Kabir Verma       CSE003              38        45       
+ 35      39.33    Needs practice
+Meera Das         CSE004              90        88       
+ 84      87.33                 A
+Rohan Gupta       CSE005              55        42       
+ 61      52.67                 C
+vivek             CSE006              85        78       
+  2      55.00                 C
+---------------------------------------------------------
+----------------------------------
+\nTop scorer: Meera Das (CSE004) - average 87.33
+\nStudents who need extra practice (average below 40):
+- Kabir Verma (CSE003): 39.33
+
+
+** Process exited - Return Code: 0 **
+
